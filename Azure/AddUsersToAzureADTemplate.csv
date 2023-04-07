@@ -1,0 +1,3 @@
+Name [displayName] Required,User name [userPrincipalName] Required,Email,Initial password [passwordProfile] Required,First name [givenName],Last name [surname],Job title [jobTitle],Department [department],Usage location [usageLocation],Street address [streetAddress],State or province [state],Country or region [country],Office [physicalDeliveryOfficeName],City [city],ZIP or postal code [postalCode],Office phone [telephoneNumber],Mobile phone [mobile]
+John Doe,john.doe@contoso.com,john.doe@contoso.com,Pass1234$=,John,Doe,Engineer,,,,,,,,,,
+Mary Doe,mary.doe@contoso.com,mary.doe@contoso.com,Pass5678=,Mary,Doe,Engineer,,,,,,,,,,

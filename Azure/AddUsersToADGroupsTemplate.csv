@@ -1,0 +1,3 @@
+ObjectId,DisplayName,UserPrincipalName,GroupObjectID
+a86e528a-e249-4565-a206-6bc146241f26,John Doe,john.doe@contoso.com,a0c0d2ce-9ded-4873-bc24-1f80576d7833;0923a574-2918-4ffe-ad8c-4ca6357f3106;0cd8f674-5fca-4089-a413-5ac743a68023
+83827fab-a1b5-4234-8ea1-dc39353ab4a4,Mary Doe,mary.doe@contoso.com,c9766a5c-5522-490f-9ca1-e8c4cf90a250
